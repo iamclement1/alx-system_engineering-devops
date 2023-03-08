@@ -1,3 +1,1 @@
-#!/bin/bash
-echo "pwd"
-
+README for the shell
